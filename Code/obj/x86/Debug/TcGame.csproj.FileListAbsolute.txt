@@ -1,0 +1,198 @@
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-audio-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-graphics-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-window-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Textures\Pixel.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Textures\Circle.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Fonts\LuckiestGuy.ttf
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Shaders\ps.glsl
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Shaders\vs.glsl
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Music\arkanoid2012beta.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Background\background.jpg
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_green.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_silver.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bats\bat_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\coin.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick03.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick04.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\bomb01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\bomb02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball03.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\bomb.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\coin.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\heart.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\star.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\life.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\Data\Fonts\georgia.ttf
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\TcGame.exe
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\TcGame.pdb
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\obj\x86\Debug\TcGame.exe
+C:\Users\Usuario\Documents\[TCM]\Programació II\ProgramaciónII\Practica3\Alumno\Code\obj\x86\Debug\TcGame.pdb
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-audio-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-graphics-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-window-2.dll.config
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Textures\Pixel.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Textures\Circle.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Fonts\LuckiestGuy.ttf
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Shaders\ps.glsl
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Shaders\vs.glsl
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Music\arkanoid2012beta.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Background\background.jpg
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_green.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_silver.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bats\bat_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\coin.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick03.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\brick04.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\bomb01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\bomb02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball01.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball02.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\ball03.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow_broken.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\bomb.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\coin.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\heart.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\star.png
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Arkanoid\Sounds\life.wav
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\Data\Fonts\georgia.ttf
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\TcGame.exe
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\TcGame.pdb
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\obj\x86\Debug\TcGame.exe
+C:\Users\Usuario\Documents\[TCM]\Programació II\Prácticas\P5 - Arkanoid\Alumno\Code\obj\x86\Debug\TcGame.pdb
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-audio-2.dll.config
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-graphics-2.dll.config
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-window-2.dll.config
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Textures\Pixel.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Textures\Circle.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Fonts\LuckiestGuy.ttf
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Shaders\ps.glsl
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Shaders\vs.glsl
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Music\arkanoid2012beta.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Background\background.jpg
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_blue.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_green.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_silver.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bats\bat_blue.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\coin.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick01.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick02.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick03.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick04.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\bomb01.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\bomb02.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball01.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball02.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball03.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow_broken.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\bomb.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\coin.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\heart.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\star.png
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\life.wav
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Fonts\georgia.ttf
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\TcGame.exe
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\TcGame.pdb
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.exe
+C:\Users\Pol Offline\Desktop\Projects\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.pdb
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-audio-2.dll.config
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-graphics-2.dll.config
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-window-2.dll.config
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Textures\Pixel.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Textures\Circle.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Fonts\LuckiestGuy.ttf
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Shaders\ps.glsl
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Shaders\vs.glsl
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Music\arkanoid2012beta.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Background\background.jpg
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_blue.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_green.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Balls\ball_silver.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bats\bat_blue.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\coin.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick01.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick02.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick03.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\brick04.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\bomb01.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\bomb02.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball01.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball02.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\ball03.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_blue_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_gray_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_green_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_pink_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_violet_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Bricks\brick_yellow_broken.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\bomb.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\coin.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\heart.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Textures\Gifts\star.png
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Arkanoid\Sounds\life.wav
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\Data\Fonts\georgia.ttf
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\TcGame.exe
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\TcGame.pdb
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-audio-2.dll
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-graphics-2.dll
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\bin\Debug\sfmlnet-window-2.dll
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.csprojAssemblyReference.cache
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.csproj.CopyComplete
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.exe
+D:\User\Pol\Tecnocampus\1r Curs\PROGRAMACIÓ II\PRACTICA 5\Code\obj\x86\Debug\TcGame.pdb

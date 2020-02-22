@@ -1,0 +1,6 @@
+namespace TcGame
+{
+  class s
+  {
+  }
+}
