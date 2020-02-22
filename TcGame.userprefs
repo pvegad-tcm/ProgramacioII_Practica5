@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{05C9BB7B-26A4-4BF5-ADD0-652AFB2D1A65}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TcGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source\Game\Ball.cs">
+    <Files>
+      <File FileName="Source\Game\MyGame.cs" Line="190" Column="27" />
+      <File FileName="Source\Game\Pad.cs" Line="26" Column="29" />
+      <File FileName="Source\Game\Ball.cs" Line="43" Column="45" />
+      <File FileName="Source\Game\Brick\Brick.cs" Line="73" Column="47" />
+      <File FileName="Source\Game\Brick\BrickMaterial.cs" Line="9" Column="10" />
+      <File FileName="Source\Game\Brick\BrickWall.cs" Line="66" Column="13" />
+      <File FileName="Source\Game\Resources.cs" Line="97" Column="1" />
+      <File FileName="Source\Engine\Scene.cs" Line="24" Column="1" />
+      <File FileName="Source\Game\HUD.cs" Line="70" Column="7" />
+      <File FileName="Source\Game\Gifts\Gift.cs" Line="22" Column="27" />
+      <File FileName="Source\Game\Gifts\GiftHeart.cs" Line="33" Column="7" />
+      <File FileName="Source\Game\Gifts\GiftCoin.cs" Line="1" Column="1" />
+      <File FileName="Source\Game\Gifts\GiftBomb.cs" Line="16" Column="5" />
+      <File FileName="Source\Game\Gifts\GiftBall.cs" Line="32" Column="52" />
+      <File FileName="Source\Engine\Actor.cs" Line="10" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TcGame" expanded="True">
+            <Node name="TcGame" expanded="True">
+              <Node name="Source" expanded="True">
+                <Node name="Engine" expanded="True" />
+                <Node name="Game" expanded="True">
+                  <Node name="Brick" expanded="True" />
+                  <Node name="Gifts" expanded="True" />
+                  <Node name="Ball.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

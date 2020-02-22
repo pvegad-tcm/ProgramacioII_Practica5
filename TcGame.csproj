@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{05C9BB7B-26A4-4BF5-ADD0-652AFB2D1A65}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TcGame</RootNamespace>
+    <AssemblyName>TcGame</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\Fody.1.27.1\build\Fody.targets" Condition="Exists('packages\Fody.1.27.1\build\Fody.targets')" />
+  <ItemGroup>
+    <Folder Include="Source\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Textures\" />
+    <Folder Include="Data\Fonts\" />
+    <Folder Include="Source\Game\" />
+    <Folder Include="Source\Engine\" />
+    <Folder Include="Data\Shaders\" />
+    <Folder Include="Data\Arkanoid\" />
+    <Folder Include="Data\Arkanoid\Music\" />
+    <Folder Include="Data\Arkanoid\Textures\" />
+    <Folder Include="Data\Arkanoid\Sounds\" />
+    <Folder Include="Source\Game\Gifts\" />
+    <Folder Include="Source\Game\Brick\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Source\App.cs" />
+    <Compile Include="Source\Engine\CircleDrawer.cs" />
+    <Compile Include="Source\Engine\DebugManager.cs" />
+    <Compile Include="Source\Engine\Engine.cs" />
+    <Compile Include="Source\Engine\Game.cs" />
+    <Compile Include="Source\Engine\LineDrawer.cs" />
+    <Compile Include="Source\Engine\MathUtil.cs" />
+    <Compile Include="Source\Engine\Actor.cs" />
+    <Compile Include="Source\Engine\AnimatedSprite.cs" />
+    <Compile Include="Source\Engine\Scene.cs" />
+    <Compile Include="Source\Engine\AnimatedActor.cs" />
+    <Compile Include="Source\Engine\StaticActor.cs" />
+    <Compile Include="Source\Game\Resources.cs" />
+    <Compile Include="Source\Game\HUD.cs" />
+    <Compile Include="Source\Game\Pad.cs" />
+    <Compile Include="Source\Engine\SoundManager.cs" />
+    <Compile Include="Source\Game\MyGame.cs" />
+    <Compile Include="Source\Game\Gifts\Gift.cs" />
+    <Compile Include="Source\Game\Gifts\GiftBomb.cs" />
+    <Compile Include="Source\Game\Gifts\GiftCoin.cs" />
+    <Compile Include="Source\Game\Gifts\GiftHeart.cs" />
+    <Compile Include="Source\Game\Gifts\GiftBall.cs" />
+    <Compile Include="Source\Game\Background.cs" />
+    <Compile Include="Source\Game\Brick\Brick.cs" />
+    <Compile Include="Source\Game\Brick\BrickMaterial.cs" />
+    <Compile Include="Source\Game\Brick\BrickWall.cs" />
+    <Compile Include="Source\Game\Ball.cs" />
+    <Compile Include="Source\Game\s.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sfmlnet-audio-2.dll.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="sfmlnet-graphics-2.dll.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="sfmlnet-window-2.dll.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Textures\Pixel.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Fonts\georgia.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Textures\Circle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Fonts\LuckiestGuy.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Shaders\ps.glsl">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Shaders\vs.glsl">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Music\arkanoid2012beta.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Background\background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Balls\ball_blue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Balls\ball_green.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Balls\ball_orange.png" />
+    <None Include="Data\Arkanoid\Textures\Balls\ball_red.png" />
+    <None Include="Data\Arkanoid\Textures\Balls\ball_silver.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Balls\ball_yellow.png" />
+    <None Include="Data\Arkanoid\Textures\Bats\bat_black.png" />
+    <None Include="Data\Arkanoid\Textures\Bats\bat_blue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bats\bat_orange.png" />
+    <None Include="Data\Arkanoid\Textures\Bats\bat_pink.png" />
+    <None Include="Data\Arkanoid\Textures\Bats\bat_yellow.png" />
+    <None Include="Data\Arkanoid\Sounds\coin.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_gray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\brick01.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\brick02.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\brick03.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\brick04.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\bomb01.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\bomb02.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\ball01.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\ball02.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\ball03.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_blue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_blue_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_gray_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_green.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_green_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_pink_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_violet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_violet_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_yellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Bricks\brick_yellow_broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Gifts\bomb.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Gifts\coin.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Gifts\heart.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Textures\Gifts\star.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\Arkanoid\Sounds\life.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="sfmlnet-audio-2">
+      <HintPath>Libraries\Windows\sfmlnet-audio-2.dll</HintPath>
+    </Reference>
+    <Reference Include="sfmlnet-graphics-2">
+      <HintPath>Libraries\Windows\sfmlnet-graphics-2.dll</HintPath>
+    </Reference>
+    <Reference Include="sfmlnet-window-2">
+      <HintPath>Libraries\Windows\sfmlnet-window-2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
